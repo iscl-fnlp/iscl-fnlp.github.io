@@ -8,9 +8,9 @@ _Figurative Langauge and Natural Language Processing_
 at the [Department of Linguistics](http://sfs.uni-tuebingen.de),
 [University of Tübingen](http://uni-tuebingen.de).
 
-Detecting, understanding and generating figurative language  
+Detecting, understanding and generating figurative language
 have been one of the biggest challenges
-for natural language processing dsystems.
+for natural language processing systems.
 In this seminar course, after introductory lectures
 during the first few weeks, participants are required to read, discuss
 and present selected papers from literature. The course also includes
